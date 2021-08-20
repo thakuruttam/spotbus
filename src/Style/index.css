@@ -1,0 +1,34 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.marker-image {
+  width: 35px;
+  background-color: transparent;
+}
+.marker-text {
+  background-color: black;
+  color: white;
+  width: 80px;
+  text-align: center;
+}
+.text-container {
+  height: 18vh;
+  margin: 1vh;
+}
+.dropdown-container {
+  margin: 0px 30px;
+}
+.admin-dash {
+  margin-bottom: 10px;
+  border-bottom: 1px solid rgba(134, 131, 131, 0.212);
+}
